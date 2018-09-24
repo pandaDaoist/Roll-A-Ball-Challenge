@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: db6d043efe7111a47abb1d84cbcf4673
+timeCreated: 1537746127
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Game Continue 02
+  fontNames:
+  - Game Continue 02
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
